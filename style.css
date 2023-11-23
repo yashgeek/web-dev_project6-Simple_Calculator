@@ -12,7 +12,6 @@
 body {
   /* Background gradient */
   background: linear-gradient(90deg, #0a0a0a, #3a4452);
-  width: 100vh;
   height: 100vh;
   /* Center content */
   display: flex;
